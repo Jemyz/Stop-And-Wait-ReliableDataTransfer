@@ -1,0 +1,6 @@
+sampleRTTanalysis
+[5.0, 2.0]
+
+Average sampleRTTanalysis is 5.0
+File size is 14 bytes
+Loss probability is 2.0000000000000018%

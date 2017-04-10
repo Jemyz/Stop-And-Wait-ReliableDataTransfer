@@ -1,0 +1,6 @@
+EstimatedRTTanalysis
+[0.625, 0.796875]
+
+Average EstimatedRTTanalysis is 0.625
+File size is 14 bytes
+Loss probability is 2.0000000000000018%
